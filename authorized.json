@@ -1,4 +1,9 @@
 {
   "version": 1,
-  "authorized": []
+  "authorized": [{
+  "machineId": "5e498bc9e59e62c62fceae12",
+  "email": "subha.srikar.chinta@accenture.com",
+  "issuedAt": "2026-08-15",
+  "signature": "kmjMnfpLkOjjBxcEDvyQOHI77D+eQhQDjXRQSJGxVGqOLbFSOInSTlGKMK72YK7ezFDi4v9oOR3wrVPjgj4sBA=="
+}]
 }
